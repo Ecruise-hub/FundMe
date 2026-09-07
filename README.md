@@ -41,20 +41,18 @@ solidity
 using PriceConverter for uint256;
 
 **Technologies Used**
-
 Solidity
-
 Ethereum
 Chainlink Price Feeds
 Remix IDE
 Git & GitHub
 Key Concepts Practiced
 
-Through this project, I practiced and applied:
-
+**Through this project, I practiced and applied:
+**
 Solidity functions
 Arrays
-Mappings
+Mapping
 Structs
 Constructors
 Modifiers
@@ -71,7 +69,7 @@ ETH/USD conversion
 Access control
 Deployment
 
-The contract was deployed and tested on:
+**The contract was deployed and tested on:**
 
 Network: Sepolia Testnet
 
