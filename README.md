@@ -37,8 +37,8 @@ It includes:
 
 The library is used in `FundMe.sol` with:
 
-```solidity
-using PriceConverter for uint256;```
+solidity
+using PriceConverter for uint256;
 
 Technologies Used
 Solidity
