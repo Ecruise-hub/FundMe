@@ -1,7 +1,4 @@
 # FundMe
-A Solidity crowdfunding smart contract with chainlink pricefeeds and owner controlled withdrawals
-
-# FundMe
 
 A decentralized crowdfunding smart contract built with Solidity. The contract allows users to fund the contract with ETH while enforcing a minimum USD contribution. It uses Chainlink price feeds to convert ETH to USD and provides owner-controlled withdrawals.
 
