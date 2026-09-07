@@ -41,7 +41,9 @@ solidity
 using PriceConverter for uint256;
 
 **Technologies Used**
+
 Solidity
+
 Ethereum
 Chainlink Price Feeds
 Remix IDE
