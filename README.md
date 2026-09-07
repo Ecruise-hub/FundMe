@@ -40,7 +40,7 @@ The library is used in `FundMe.sol` with:
 solidity
 using PriceConverter for uint256;
 
-Technologies Used
+**Technologies Used**
 Solidity
 Ethereum
 Chainlink Price Feeds
