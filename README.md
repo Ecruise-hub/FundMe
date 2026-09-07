@@ -1,2 +1,2 @@
 # FundMe
-Smart Contract Project
+A Solidity crowdfunding smart contract with chainlink pricefeeds and owner controlled withdrawals
