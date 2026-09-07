@@ -40,34 +40,33 @@ The library is used in `FundMe.sol` with:
 solidity
 using PriceConverter for uint256;
 
-**Technologies Used**
-Solidity
-Ethereum
-Chainlink Price Feeds
-Remix IDE
-Git & GitHub
-Key Concepts Practiced
+**Technologies Used**:
+Solidity,
+Ethereum,
+Chainlink Price Feeds,
+Remix IDE,
+Git & GitHub,
+Key Concepts Practiced,
 
-**Through this project, I practiced and applied:
-**
-Solidity functions
-Arrays
-Mapping
-Structs
-Constructors
-Modifiers
-msg.sender
-msg.value
-payable
-Data locations
-Libraries
-ETH transfers using call
-Error handling with require
-Integer overflow and underflow
-Chainlink price feed integration
-ETH/USD conversion
-Access control
-Deployment
+**Through this project, I practiced and applied:**
+Solidity functions,
+Arrays,
+Mapping,
+Structs,
+Constructors,
+Modifiers,
+msg.sender,
+msg.value,
+payable,
+Data locations,
+Libraries,
+ETH transfers using call,
+Error handling with require,
+Integer overflow and underflow,
+Chainlink price feed integration,
+ETH/USD conversion,
+Access control,
+Deployment,
 
 **The contract was deployed and tested on:**
 
